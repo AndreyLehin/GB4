@@ -1,0 +1,11 @@
+D:\курсы папы\проект\Homework6\Tasks6\bin\Debug\Tasks6.exe.config
+D:\курсы папы\проект\Homework6\Tasks6\bin\Debug\Tasks6.exe
+D:\курсы папы\проект\Homework6\Tasks6\bin\Debug\Tasks6.pdb
+D:\курсы папы\проект\Homework6\Tasks6\bin\Debug\Name.dll
+D:\курсы папы\проект\Homework6\Tasks6\bin\Debug\Name.pdb
+D:\курсы папы\проект\Homework6\Tasks6\obj\Debug\Tasks6.csproj.AssemblyReference.cache
+D:\курсы папы\проект\Homework6\Tasks6\obj\Debug\Tasks6.csproj.SuggestedBindingRedirects.cache
+D:\курсы папы\проект\Homework6\Tasks6\obj\Debug\Tasks6.csproj.CoreCompileInputs.cache
+D:\курсы папы\проект\Homework6\Tasks6\obj\Debug\Tasks6.csproj.CopyComplete
+D:\курсы папы\проект\Homework6\Tasks6\obj\Debug\Tasks6.exe
+D:\курсы папы\проект\Homework6\Tasks6\obj\Debug\Tasks6.pdb
