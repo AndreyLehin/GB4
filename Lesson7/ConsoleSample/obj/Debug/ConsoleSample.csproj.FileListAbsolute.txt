@@ -1,0 +1,8 @@
+C:\sources\gb\csharp\Lesson7\ConsoleSample\bin\Debug\ConsoleSample.exe.config
+C:\sources\gb\csharp\Lesson7\ConsoleSample\bin\Debug\ConsoleSample.exe
+C:\sources\gb\csharp\Lesson7\ConsoleSample\bin\Debug\ConsoleSample.pdb
+C:\sources\gb\csharp\Lesson7\ConsoleSample\obj\Debug\ConsoleSample.csproj.AssemblyReference.cache
+C:\sources\gb\csharp\Lesson7\ConsoleSample\obj\Debug\ConsoleSample.csproj.SuggestedBindingRedirects.cache
+C:\sources\gb\csharp\Lesson7\ConsoleSample\obj\Debug\ConsoleSample.csproj.CoreCompileInputs.cache
+C:\sources\gb\csharp\Lesson7\ConsoleSample\obj\Debug\ConsoleSample.exe
+C:\sources\gb\csharp\Lesson7\ConsoleSample\obj\Debug\ConsoleSample.pdb
