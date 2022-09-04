@@ -1,0 +1,23 @@
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe.config
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.pdb
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.AssemblyReference.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.SuggestedBindingRedirects.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Properties.Resources.resources
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.GenerateResource.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.CoreCompileInputs.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.exe
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.pdb
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.resources
+D:\курсы папы\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe.config
+D:\курсы папы\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe
+D:\курсы папы\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.pdb
+D:\курсы папы\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.AssemblyReference.cache
+D:\курсы папы\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.SuggestedBindingRedirects.cache
+D:\курсы папы\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.resources
+D:\курсы папы\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Properties.Resources.resources
+D:\курсы папы\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.GenerateResource.cache
+D:\курсы папы\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.CoreCompileInputs.cache
+D:\курсы папы\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.exe
+D:\курсы папы\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.pdb
+D:\курсы папы\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Game.resources

@@ -1,0 +1,18 @@
+C:\sources\gb\csharp\Lesson8\Seminar\bin\Debug\Person.xml
+C:\sources\gb\csharp\Lesson8\Seminar\bin\Debug\Seminar.exe.config
+C:\sources\gb\csharp\Lesson8\Seminar\bin\Debug\Seminar.exe
+C:\sources\gb\csharp\Lesson8\Seminar\bin\Debug\Seminar.pdb
+C:\sources\gb\csharp\Lesson8\Seminar\obj\Debug\Seminar.csproj.AssemblyReference.cache
+C:\sources\gb\csharp\Lesson8\Seminar\obj\Debug\Seminar.csproj.SuggestedBindingRedirects.cache
+C:\sources\gb\csharp\Lesson8\Seminar\obj\Debug\Seminar.csproj.CoreCompileInputs.cache
+C:\sources\gb\csharp\Lesson8\Seminar\obj\Debug\Seminar.exe
+C:\sources\gb\csharp\Lesson8\Seminar\obj\Debug\Seminar.pdb
+D:\курсы папы\Lesson8\Seminar\bin\Debug\Person.xml
+D:\курсы папы\Lesson8\Seminar\bin\Debug\Seminar.exe.config
+D:\курсы папы\Lesson8\Seminar\bin\Debug\Seminar.exe
+D:\курсы папы\Lesson8\Seminar\bin\Debug\Seminar.pdb
+D:\курсы папы\Lesson8\Seminar\obj\Debug\Seminar.csproj.AssemblyReference.cache
+D:\курсы папы\Lesson8\Seminar\obj\Debug\Seminar.csproj.SuggestedBindingRedirects.cache
+D:\курсы папы\Lesson8\Seminar\obj\Debug\Seminar.csproj.CoreCompileInputs.cache
+D:\курсы папы\Lesson8\Seminar\obj\Debug\Seminar.exe
+D:\курсы папы\Lesson8\Seminar\obj\Debug\Seminar.pdb
